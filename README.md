@@ -1,20 +1,6 @@
-<!-- PROJECT LOGO -->
+ <h1 align="center">Customizing Visual-Language Foundation Models for Anomaly Detection and Reasoning</h1>
+![image](https://github.com/Xiaohao-Xu/Customizable-VLM/assets/147964359/13de20c5-e7eb-4bed-85bf-15b48b78d45f)
 
-<p align="center">
-
-  <h1 align="center">Customizing Visual-Language Foundation Models for Anomaly Detection and Reasoning</h1>
-  ![image](https://github.com/Xiaohao-Xu/Customizable-VLM/assets/147964359/345304b8-3c74-4cd4-a56b-bc5a67d338af)
-
-    <p align="center">
-    <strong>UMich</strong>
-    ·
-    <strong>HUST</strong>
-  </p>
-  <h3 align="center"><a href="">Preprint Paper</a></h3>
-  <div align="center"></div>
-</p>
-
-<br>
 
 ## Setup environment:
 
