@@ -1,5 +1,8 @@
- <h1 align="center">Customizing Visual-Language Foundation Models for Anomaly Detection and Reasoning</h1>
-![image](https://github.com/Xiaohao-Xu/Customizable-VLM/assets/147964359/13de20c5-e7eb-4bed-85bf-15b48b78d45f)
+# Customizing Visual-Language Foundation Models for Anomaly Detection and Reasoning
+
+![image](https://github.com/Xiaohao-Xu/Customizable-VLM/assets/147964359/3bc6c6ab-b5c2-4b2d-8530-577ea95b9a0f)
+
+
 
 
 ## Setup environment:
