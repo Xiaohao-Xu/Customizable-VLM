@@ -3,6 +3,8 @@
 <p align="center">
 
   <h1 align="center">Customizing Visual-Language Foundation Models for Anomaly Detection and Reasoning</h1>
+  ![image](https://github.com/Xiaohao-Xu/Customizable-VLM/assets/147964359/345304b8-3c74-4cd4-a56b-bc5a67d338af)
+
     <p align="center">
     <strong>UMich</strong>
     ·
