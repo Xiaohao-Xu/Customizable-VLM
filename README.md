@@ -1,4 +1,4 @@
-# Customizing Visual-Language Foundation Models for Anomaly Detection and Reasoning
+# Customizing Visual-Language Foundation Models for Multi-modal Anomaly Detection and Reasoning
 
 ![image](https://github.com/Xiaohao-Xu/Customizable-VLM/assets/147964359/3bc6c6ab-b5c2-4b2d-8530-577ea95b9a0f)
 
