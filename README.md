@@ -40,8 +40,8 @@ Please cite our paper if you find this repo useful! :yellow_heart: :blue_heart: 
 
 ```bibtex
 @article{xu2024custimizing,
-  title={Customizing Visual-Language Foundation Models for Anomaly Detection and Reasoning},
-  author={Xu, Xiaohao and Cao, Yunkang and Chen, Yongqi and Shen, Weiming and and Huang, Xiaonan},
+  title={Customizing Visual-Language Foundation Models for Multi-modal Anomaly Detection and Reasoning},
+  author={Xu, Xiaohao and Cao, Yunkang and Chen, Yongqi and Shen, Weiming and Huang, Xiaonan},
   journal={arXiv preprint},
   year={2024}
 }
