@@ -1,0 +1,17 @@
+Variables: 
+!<INPUT 0>! -- Input type
+!<INPUT 1>! -- Input Description Prompt
+!<INPUT 2>! -- Normal Image
+!<INPUT 3>! -- Anomaly Image
+
+
+<commentblockmarker>###</commentblockmarker>
+The first image given about the !<INPUT 0>! is normal. Please determine whether the second image given about the !<INPUT 0>! contains anomalies or defects. If yes, give a specific reason. Normally, the image given should depict clear and identifiable !<INPUT 0>!. It may have defects such as broken parts, and contaminations.
+
+Your answer should contain 2 parts: 
+"reasoning": a string, that describes what you think about the given image;
+"correctness": an integer, 1 if there is no anomaly in the image, 0 if it is, no partial credit; 
+
+Output example: {"reasoning": a string, "correctness": integer, 1 or 0 }
+
+Your response must be a valid JSON string starting with { and should contain nothing else because we will directly execute it in Python. No indent or \n in json structure formatting is needed. No ``` or ```json is needed.
