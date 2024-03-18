@@ -20,9 +20,8 @@ export GOOGLE_API_KEY=<your key>
 ## Dataset Preparation:
 
 ### MVTecAD
-
-Download link: [MVTecAD-Website](https://www.mvtec.com/company/research/datasets/mvtec-ad)
-
+- Download link: [MVTecAD-Website](https://www.mvtec.com/company/research/datasets/mvtec-ad)
+- Please put the dataset under the folder [datasets/MVTecAD](./datasets/MVTecAD)
 ## Evaluation Scripts:
 
 Eval on GeMini
