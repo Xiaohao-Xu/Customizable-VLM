@@ -2,7 +2,7 @@
 
 ![image](https://github.com/Xiaohao-Xu/Customizable-VLM/assets/147964359/3bc6c6ab-b5c2-4b2d-8530-577ea95b9a0f)
 
-
+[ArXiv-Paper](https://arxiv.org/pdf/2403.11083.pdf)
 
 
 ## Setup environment:
@@ -42,7 +42,7 @@ Please cite our paper if you find this repo useful! :yellow_heart: :blue_heart: 
 @article{xu2024custimizing,
   title={Customizing Visual-Language Foundation Models for Multi-modal Anomaly Detection and Reasoning},
   author={Xu, Xiaohao and Cao, Yunkang and Chen, Yongqi and Shen, Weiming and Huang, Xiaonan},
-  journal={arXiv preprint},
+  journal={arXiv preprint arXiv:2403.11083},
   year={2024}
 }
 ```
