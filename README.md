@@ -11,7 +11,7 @@ Install packages for your virtual environment:
 ```
 pip install -r requirements.txt
 ```
-Set up API keys for openai and google on terminal or .bashrc:
+Set up API keys for openai  (Non-Free GPT-4Vision API Usage) and google (for Free Gemini Vision API Usage) on terminal or .bashrc:
 ```
 export OPENAI_API_KEY=<your key>
 export GOOGLE_API_KEY=<your key>
