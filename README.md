@@ -24,7 +24,7 @@ export GOOGLE_API_KEY=<your key>
 - Please put the dataset under the folder [datasets/MVTecAD](./datasets/MVTecAD)
 ## Evaluation Scripts:
 
-Eval on GeMini
+Eval on Gemini
 ```
 python main_gemini.py --dataset "datasets/MVTecAD/vlm_for_ad_dataset.json" --cache "./output/answer_genmini.json" --output "./output/answer_5.json" --google_api_key 'ADD_YOUR_GOOLE_API_HERE’ --prompt_template “./prompt_template/ad_prompt.txt”
 ```
