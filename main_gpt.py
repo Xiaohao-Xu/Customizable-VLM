@@ -62,13 +62,11 @@ def get_cache(cache,example,args):
 def clean_control_chars(text):
     # first eacape \
     text = text.replace("\\", "\\\\")
-
     # then escape \n, \t, \r
     text = text.replace("\n", "\\n").replace("\t", "\\t").replace("\r", "\\r")
     return text
 
 def process_batch(batch, args):
-
     text_batch, good_imgs_batch, defect_img_batch = zip(*batch)
     processed_dataset = []
     new_batch = []
