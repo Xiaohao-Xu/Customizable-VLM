@@ -61,7 +61,6 @@ def clean_control_chars(text):
 def process_batch(batch, args):
     genai.configure(api_key=args.google_api_key)
     model = genai.GenerativeModel(args.model)
-    from IPython import embed
 
     text_batch, good_imgs_batch, defect_img_batch = zip(*batch)
     processed_dataset = []
@@ -75,7 +74,7 @@ def process_batch(batch, args):
 
         prompts.append(prompt)
         input = []
-
+        input.extend(good_imgs)
         input.append(defect_img)
         input.append(prompt)
 

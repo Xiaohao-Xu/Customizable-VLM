@@ -68,7 +68,6 @@ def clean_control_chars(text):
     return text
 
 def process_batch(batch, args):
-    from IPython import embed
 
     text_batch, good_imgs_batch, defect_img_batch = zip(*batch)
     processed_dataset = []
