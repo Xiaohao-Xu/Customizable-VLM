@@ -34,6 +34,18 @@ Eval on GPT4-Vision
 python main_gpt.py --dataset "datasets/MVTecAD/vlm_for_ad_dataset.json" --cache "./output/answer_gpt4v.json" --output "./output/answer_gpt4v.json" --openai_api_key ‘ADD_YOUR_OPENAI_API_HERE’ --prompt_template “./prompt_template/ad_prompt.txt”
 ```
 
+Eval on InternVL2
+- Follow the [official guidance](https://internvl.readthedocs.io/en/latest/get_started/installation.html) to set up the environment for `InternVL2` and download the checkpoints. (By default, we used `InternVL2-8B`.)
+```
+python main_internvl2.py --model "~/path/to/InternVL2-8B" --dataset "datasets/MVTecAD/vlm_for_ad_dataset.json" --cache "./output/answer_internvl2_8b.json" --output "./output/answer_internvl2_8b.json"
+```
+
+Eval on Qwen2VL
+- Follow the [official repo](https://github.com/QwenLM/Qwen2-VL) to set up the environment for `Qwen2VL` and download the checkpoints. (By default, we used `Qwen2-VL-7B-Instruct`.)
+```
+python main_qwenvl2.py --model "~/path/to/Qwen2-VL-7B-Instruct" --dataset "datasets/MVTecAD/vlm_for_ad_dataset.json" --cache "./output/answer_qwenvl2_7b.json" --output "./output/answer_qwenvl2_7b.json"
+```
+
 ## Citation
 
 Please cite our paper if you find this repo useful! :yellow_heart: :blue_heart: :yellow_heart: :blue_heart:
