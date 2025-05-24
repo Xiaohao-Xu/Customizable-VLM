@@ -54,7 +54,7 @@ Please cite our paper if you find this repo useful! :yellow_heart: :blue_heart: 
 @INPROCEEDINGS{9776026,
   author={Xu, Xiaohao and Cao, Yunkang and Zhang, Huaxin and Sang, Nong and Huang, Xiaonan},
   booktitle={2025 IEEE 28th International Conference on Computer Supported Cooperative Work in Design (CSCWD)}, 
-  title={Semi-supervised Knowledge Distillation for Tiny Defect Detection}, 
+  title={Customizing Visual-Language Foundation Models for Multi-modal Anomaly Detection and Reasoning}, 
   year={2025},
 }
 ```
