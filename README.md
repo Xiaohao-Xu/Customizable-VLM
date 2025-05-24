@@ -51,11 +51,11 @@ python main_qwenvl2.py --model "~/path/to/Qwen2-VL-7B-Instruct" --dataset "datas
 Please cite our paper if you find this repo useful! :yellow_heart: :blue_heart: :yellow_heart: :blue_heart:
 
 ```bibtex
-@article{xu2024custimizing,
-  title={Customizing Visual-Language Foundation Models for Multi-modal Anomaly Detection and Reasoning},
-  author={Xu, Xiaohao and Cao, Yunkang and Chen, Yongqi and Shen, Weiming and Huang, Xiaonan},
-  journal={arXiv preprint arXiv:2403.11083},
-  year={2024}
+@INPROCEEDINGS{9776026,
+  author={Xu, Xiaohao and Cao, Yunkang and Zhang, Huaxin and Sang, Nong and Huang, Xiaonan},
+  booktitle={2025 IEEE 28th International Conference on Computer Supported Cooperative Work in Design (CSCWD)}, 
+  title={Semi-supervised Knowledge Distillation for Tiny Defect Detection}, 
+  year={2025},
 }
 ```
 
